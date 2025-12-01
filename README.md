@@ -74,22 +74,22 @@
 
 # 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarTanajiPatil&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarTanajiPatil&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=OmkarTanajiPatil&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=OmkarTanajiPatil&layout=compact&theme=radical" height="160" />
 </p>
 
----
+
 
 # 🔗 Connect With Me
 <p align="left">
   <a href="mailto:omkartanajipatilofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-  <a href="https://leetcode.com/omkartanajipatil"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
-  <a href="https://www.codechef.com/users/omkartpatil"><img src="https://skillicons.dev/icons?i=codechef"/></a>
+  <a href="https://leetcode.com/omkartanajipatil"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://www.codechef.com/users/omkartpatil"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </p>
 
 ---
 
 # 📄 Resume
-[📘 Download My Resume](#) *(https://github.com/OmkarTanajiPatil/OmkarTanajiPatil/blob/main/4%20Resume%201-12-2025%20.pdf)*
+[📘 Download My Resume](https://github.com/OmkarTanajiPatil/OmkarTanajiPatil/blob/main/4%20Resume%201-12-2025%20.pdf)
 
 
