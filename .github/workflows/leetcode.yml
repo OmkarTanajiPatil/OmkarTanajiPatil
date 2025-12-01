@@ -1,0 +1,28 @@
+name: Update LeetCode Stats
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+
+jobs:
+  leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate LeetCode badge
+        run: |
+          curl -s "https://leetcard.jacoblin.cool/omkartanajipatil?theme=dark&ext=heatmap" -o leetcode.svg
+
+      - name: Commit file
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add leetcode.svg
+          git commit -m "Update leetcode.svg" || echo "No changes"
+          git push
