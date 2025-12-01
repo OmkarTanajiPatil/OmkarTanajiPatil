@@ -15,7 +15,7 @@
 ---
 
 # 📈 LeetCode Progress (Auto Updated)
-![LeetCode Stats](https://leetcard.jacoblin.cool/omkartanajipatil?theme=dark&ext=contest)
+![LeetCode Stats](https://leetcode.com/u/omkartanajipatil/)
 
 ---
 
@@ -46,13 +46,11 @@
 - 🥇 **1st Prize – DSA Coding Competition (CodeCraft Club)**  
 - 🥉 **3rd Place – Craftverse National-Level Hackathon**  
 - 🎯 **Semi-Finalist – GenAI Exchange Hackathon (Google)**  
-- 📚 Solved **350+ DSA problems** (now 400+)  
 - 🎓 **10.0 SGPA in 2nd Year (Computer Science)**  
 
 ---
 
 # 📌 Featured Projects
-> *(Names, descriptions, tech-stack auto-updatable by workflow)*
 
 ### 🔹 **Vulnera – Bug Bounty Platform**
 - ML module using **BERT-based classifier**  
@@ -84,9 +82,9 @@
 
 # 🔗 Connect With Me
 <p align="left">
-  <a href="https://github.com/OmkarTanajiPatil"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="https://leetcode.com/omkartanajipatil"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
   <a href="mailto:omkartanajipatilofficial@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://leetcode.com/omkartanajipatil"><img src="https://skillicons.dev/icons?i=leetcode"/></a>
+  <a href="https://www.codechef.com/users/omkartpatil"><img src="https://skillicons.dev/icons?i=codechef"/></a>
 </p>
 
 ---
@@ -94,17 +92,4 @@
 # 📄 Resume
 [📘 Download My Resume](#) *(Upload your PDF to this repo and link here)*
 
----
 
-# 🤖 Auto-Updating Sections  
-These sections can update automatically using GitHub Actions:
-✔ LeetCode Stats  
-✔ GitHub Stats  
-✔ Recent Projects (name/description/stack)  
-✔ Profile views  
-
-If you want, I can set up the automation for you.
-
----
-
-### ⭐ *If you want a custom banner at the top, I can generate one for you too.*
