@@ -1,0 +1,27 @@
+name: Update LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-leetcode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate LeetCode Stats
+        uses: lxy-yz/leetcode-stat-action@master
+        with:
+          username: omkartanajipatil
+          output: leetcode.svg
+
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add leetcode.svg
+          git commit -m "Auto-update LeetCode stats" || echo "No changes"
+          git push
