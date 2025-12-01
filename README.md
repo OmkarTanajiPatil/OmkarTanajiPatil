@@ -15,7 +15,8 @@
 ---
 
 # 📈 LeetCode Progress (Auto Updated)
-![LeetCode Stats](https://leetcode.com/u/omkartanajipatil/)
+![LeetCode Stats](./leetcode.svg)
+
 
 ---
 
