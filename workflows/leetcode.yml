@@ -1,9 +1,12 @@
 name: Update LeetCode Stats
 
 on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
-  workflow_dispatch:
 
 jobs:
   leetcode:
@@ -19,7 +22,4 @@ jobs:
       - name: Commit file
         run: |
           git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add leetcode.svg
-          git commit -m "Update leetcode.svg" || echo "No changes"
-          git push
+          git config --global user.email "gi
