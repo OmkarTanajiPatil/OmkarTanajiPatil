@@ -90,6 +90,6 @@
 ---
 
 # 📄 Resume
-[📘 Download My Resume](#) *(Upload your PDF to this repo and link here)*
+[📘 Download My Resume](#) *(https://github.com/OmkarTanajiPatil/OmkarTanajiPatil/blob/main/4%20Resume%201-12-2025%20.pdf)*
 
 
