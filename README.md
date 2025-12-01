@@ -14,7 +14,7 @@
 
 ---
 
-# 📈 LeetCode Progress (Auto Updated)
+# 📈 LeetCode Progress
 ![LeetCode Stats](./leetcode.svg)
 
 
@@ -23,12 +23,12 @@
 # 🛠️ Skills
 ### **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
 ### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,django,sklearn,opencv" />
+  <img src="https://skillicons.dev/icons?i=flask,django,sklearn" />
 </p>
 
 ### **Databases**
