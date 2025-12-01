@@ -28,7 +28,7 @@
 
 ### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,django,sklearn" />
+  <img src="https://skillicons.dev/icons?i=flask,django,sklearn,streamlit,fastapi" />
 </p>
 
 ### **Databases**
