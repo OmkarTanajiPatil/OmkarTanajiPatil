@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 3rd-year CSE student at **PCCOER, Pune**  
 - Passionate about **Machine Learning, LLMs, Data Structures & Algorithms**  
-- Solved **400+ DSA problems** on LeetCode (auto-updating below)  
+- Solved **400+ DSA problems** on LeetCode 
 - LeetCode Rating: **1600+**  
 - CodeChef **2★**, rating **1450+**  
 - Love building AI-powered tools & real-world ML applications  
@@ -14,7 +14,7 @@
 
 ---
 
-# 📈 LeetCode Progress (Auto Updated)
+# 📈 LeetCode Progress 
 ![LeetCode Stats](https://leetcode.com/u/omkartanajipatil/)
 
 ---
