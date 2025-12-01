@@ -25,4 +25,4 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add leetcode.svg
           git commit -m "Update leetcode.svg" || echo "No changes"
-          git push
+          git push   
