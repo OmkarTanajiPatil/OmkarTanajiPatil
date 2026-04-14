@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 3rd-year CSE student at **PCCOER, Pune**  
-- Passionate about **Machine Learning, LLMs, Data Structures & Algorithms**  
+- Passionate about **Machine Learning, Deep Learning, LLMs, Data Structures & Algorithms**  
 - Solved **400+ DSA problems** on LeetCode (auto-updating below)  
 - LeetCode Rating: **1600+**  
 - CodeChef **2★**, rating **1450+**  
