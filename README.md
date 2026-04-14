@@ -104,6 +104,6 @@
 ---
 
 # 📄 Resume
-[📘 Download My Resume](https://github.com/OmkarTanajiPatil/OmkarTanajiPatil/blob/main/4%20Resume%201-12-2025%20.pdf)
+[📘 Download My Resume](https://github.com/OmkarTanajiPatil/OmkarTanajiPatil/blob/main/9_Analyst%20Resume_ATS.pdf)
 
 
