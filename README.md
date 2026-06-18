@@ -1,15 +1,14 @@
 <h1 align="center">Hi, I'm Omkar Tanaji Patil 👋</h1>
-<h3 align="center">Computer Science Student | Machine Learning Enthusiast | DSA Lover</h3>
 
 ---
 
 ## 🚀 About Me
-- 3rd-year CSE student at **PCCOER, Pune**  
+- 4th-year CSE student at **PCCOER, Pune**  
 - Passionate about **Machine Learning, Deep Learning, LLMs, Data Structures & Algorithms**  
-- Solved **400+ DSA problems** on LeetCode (auto-updating below)  
+- Solved **500+ DSA problems** on LeetCode (auto-updating below)  
 - LeetCode Rating: **1600+**  
 - CodeChef **2★**, rating **1450+**  
-- Love building AI-powered tools & real-world ML applications  
+- Love building AI-powered tools & real-world ML/DL applications  
 - DSA Facilitator at **GDG Students Club**
 
 ---
@@ -28,7 +27,7 @@
 
 ### **Frameworks & Libraries**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,django,sklearn,fastapi,streamlit" />
+  <img src="https://skillicons.dev/icons?i=flask,django,sklearn,fastapi,streamlit,polars" />
 </p>
 
 ### **Databases**
@@ -53,10 +52,10 @@
 
 # 📌 Featured Projects
 
-### 🔹 **Vulnera – Bug Bounty Platform**
-- ML module using **BERT-based classifier**  
-- Detects **spam / duplicate bug reports**  
-- Backed by **Solana Smart Contracts**
+### 🔹 **AnomCheck – Anomaly Detection in Stamping Process**
+- Detects anomalies in time series stamping data
+- Approx forcasted savings to the company : $85,000
+- Implemented LSTM Autoencoder, Covariance and Trend detection model with 77% unsupervised accuracy on real world data.
 
 ### 🔹 **SwiftAnim – AI Manim Animation Generator**
 - Converts text prompts → **Manim animations**  
@@ -104,6 +103,6 @@
 ---
 
 # 📄 Resume
-[📘 Download My Resume](https://github.com/OmkarTanajiPatil/OmkarTanajiPatil/blob/main/9_Analyst%20Resume_ATS.pdf)
+[📘 Download My Resume](https://github.com/OmkarTanajiPatil/OmkarTanajiPatil/blob/main/omkar_tanaji_patil.pdf)
 
 
